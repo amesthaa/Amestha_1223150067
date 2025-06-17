@@ -1,3 +1,6 @@
+Admin, usn: amesAdmin, pass: amesadmin
+Sales, usn: amesSales, pass: amessales
+Manajer, usn: amesManager, pass: amesmanager
 
 ###################
 What is CodeIgniter
